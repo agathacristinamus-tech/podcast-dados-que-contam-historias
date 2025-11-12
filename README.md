@@ -2,7 +2,7 @@
 Projeto DIO — Podcast "Dados que Contam Histórias"
 # Dados que Contam Histórias — Episódio 1
 **Título:** A Magia da Ciência de Dados: como os números contam histórias  
-**Autor:** Ágatha  
+**Autor:** [SEU NOME] 
 **Duração:** ~6 minutos
 
 ## Sobre o episódio
