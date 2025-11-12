@@ -3,5 +3,3 @@ PROMPT 1: "Escreva um roteiro de podcast de 6 minutos sobre 'A Magia da Ciência
 PROMPT 2: "Gere um título curto e atraente para o episódio sobre ciência de dados, e uma descrição de 2–3 linhas para usar no README."
 
 PROMPT 3: "Sugira uma capa simples para o podcast (descrição de imagem): fundo claro, título 'Dados que Contam Histórias', elemento gráfico: pequeno ícone de gráfico de linhas integrado a balão de fala."
-
-PROMPT 4: "Explique passo a passo (em termos leigos) como criar um repositório novo no GitHub e enviar um arquivo de áudio MP3, incluindo comandos básicos de Git e alternativas pela interface web."
