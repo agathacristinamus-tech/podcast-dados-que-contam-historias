@@ -1,20 +1,56 @@
-# podcast-dados-que-contam-historias
-Projeto DIO — Podcast "Dados que Contam Histórias"
-# Dados que Contam Histórias — Episódio 1
-**Título:** A Magia da Ciência de Dados: como os números contam histórias  
-**Autor:** [AGATHA] 
-**Duração:** ~6 minutos
+<div align="center">
 
-## Sobre o episódio
-Neste repositório está o material do desafio da DIO: roteiro, prompts e o áudio do episódio "Dados que Contam Histórias".
+# 🎙️ **Podcast: Dados que Contam Histórias**  
+📊 *Como os números ganham voz através da Ciência de Dados*
 
-## Conteúdo
-- `roteiro.md` — roteiro do episódio.
-- `prompts.txt` — prompts usados na criação.
-- `audio-final.mp3` — áudio final do episódio (a adicionar).
-# 🎙️ Podcast: Dados que Contam Histórias
+---
 
-Este projeto foi desenvolvido como parte do desafio da DIO, explorando o tema de como os dados podem contar histórias reais e impactar decisões no mundo moderno.
+🎧 **Desafio DIO: Criando um Podcast com IA Generativa**  
+👩‍💻 **Autora:** Agatha Cristina Pereira Soares  
+🕐 **Duração:** ~6 minutos  
+📅 **Novembro / 2025**
+
+</div>
+
+---
+
+## 🧩 **Sobre o Projeto**
+Este projeto faz parte do desafio da [Digital Innovation One (DIO)](https://www.dio.me/), e tem como objetivo explorar o poder da **IA Generativa** na criação de conteúdo de áudio educativo.
+
+O episódio **"Dados que Contam Histórias"** mostra como os dados podem revelar narrativas ocultas, transformar decisões e inspirar inovação — tudo contado de forma acessível e envolvente.
+
+---
+
+## 🗂️ **Conteúdo do Repositório**
+| Arquivo | Descrição |
+|----------|------------|
+| 🎧 `audio-final.mp3` | Episódio final do podcast |
+| 📝 `roteiro.md` | Roteiro completo utilizado na gravação |
+| 💬 `prompts.txt` | Prompts utilizados na criação do conteúdo |
+
+---
+
+## ⚙️ **Tecnologias e Ferramentas**
+- 🎙️ **ElevenLabs** → geração de voz com IA  
+- 💾 **GitHub** → versionamento e hospedagem  
+- ✍️ **Markdown (.md)** → estruturação do projeto  
+
+---
+
+## 🚀 **Como ouvir**
+👉 [Clique aqui para ouvir o podcast](./audio-final.mp3)
+
+---
+
+## 🏁 **Conclusão**
+Este projeto demonstra como a combinação de **IA Generativa** e **Ciência de Dados** pode criar experiências educativas acessíveis e inspiradoras, traduzindo números e padrões em histórias que fazem sentido para todos.
+
+---
+
+<div align="center">
+💡 Projeto desenvolvido como parte do desafio da **DIO — Criando um Podcast com IA Generativa.**
+</div>
+
 
 ## 🎧 Arquivo de Áudio
 👉 [Clique aqui para ouvir o podcast](./audio-final.mp3)
